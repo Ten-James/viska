@@ -1,0 +1,1 @@
+>An object that doesn't contain all of the data you need but knows how to get it.

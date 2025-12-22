@@ -1,0 +1,1 @@
+>Saves a database ID field in an object to maintain identity between an in-memory object and a database row
