@@ -10,5 +10,6 @@
 - `git clone ...`
 - `npm i`
 - `npx quartz build --serve` - starts a local server
+- `git add .`
 - `git commit ...`
 - `git push` :)

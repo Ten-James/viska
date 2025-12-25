@@ -51,3 +51,28 @@ příklady.
 31. Napište fragment kódu, ze kterého bude patrné, že jste použili vzor Dependent mapping. 
 32. Vymyslete alespoň dva příklady vhodné pro použití vzoru Embedded value. Co je podstatou tohoto vzoru? Proč a kdy je vhodné jej použít? 
 33. Vymyslete alespoň dva příklady vhodné pro použití vzoru Serialized LOB. Co je podstatou tohoto vzoru? Proč a kdy je vhodné jej použít?
+34. Popište podstatu vzorů Single / Class / Concrete Table Inheritance a v jakých situacích je vhodné je použít. 
+35. Napište fragment kódu, ze kterého bude patrné, že jste použili vzor Single / Class / Concrete Table Inheritance. 
+36. Jaký je rozdíl mezi vzory Single / Class / Concrete Table Inheritance? Napište fragmenty kódu, ze kterých bude patrný tento rozdíl.
+37. Vymyslete a popište příklad na využití vzoru Gateway.
+38. Vymyslete a popište příklad na využití vzoru Mapper.
+39. Vymyslete a popište příklad na využití vzoru Layer Supertype. Napište fragment kódu využívající dědičnost, ze kterého bude patrné, že jste použili tento vzor.
+40. Vymyslete a popište příklad na využití vzoru Service Stub (Mock Object). Napište fragment kódu, ze kterého bude patrné, že jste použili tento vzor.
+41. Popište, co se rozumí vodopádovým modelem a jaké jsou jeho výhody a nevýhody.
+42. Popište, co se rozumí iterativním a inkrementálním vývojem. Uveďte příklad.
+43. Co se rozumí UP (unified process), na jakých principech, charakteristikách a fázích je postaven? Uveďte příklady.
+44. Jaké jsou čtyři základní charakteristiky agilního softwarového vývoje, které ho odlišují od vodopádového a dalších robustních přístupů?
+45. Na jakých principech a praktikách je založeno tzv. extrémní programování?
+46. Které nejdůležitější charakteristiky má SCRUM?
+47. Popište proces typický pro tzv. testy řízený softwarový vývoj. Uveďte příklad.
+48. Proč nemůže být testování softwaru nikdy úplné a jaký to má dopad na řízení rizik?
+49. Jaký je rozdíl mezi pojmy správnost, spolehlivost, bezpečnost (security) a zabezpečení (safety)?
+50. Jaké skryté problémy mohou vzniknout při použití externích softwarových komponent?
+51. Co tvoří riziko podle rovnice „riziko = součásti × hrozby × zranitelnosti“ a jak se tato rovnice používá v praxi?
+52. Jaké jsou nejčastější příčiny selhání softwaru spojené s lidským faktorem?
+53. Proč je důležité dokumentovat rizika a jaké fáze zahrnuje řízení rizik po nasazení do provozu?
+54. Jaké přístupy existují ke zvyšování kvality softwaru a proč mají největší význam ve fázi specifikace požadavků?
+55. Co je doménově specifický jazyk? Proč a kdy je dobré ho využít? Uveďte příklady.
+56. Co je cílem využití doménově specifického jazyka a jaké vlastnosti by měl mít?
+57. Jaký je rozdíl mezi externím a interním doménově specifickým jazykem? Uveďte příklady. 
+58. S jakými problémy se můžeme setkat při návrhu doménově specifického jazyka? Uveďte příklady.
