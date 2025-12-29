@@ -23,10 +23,13 @@ požadavků)
 - Trvalé uchování informací (dat).  
 
 ## MVC bráško
-![[Pasted image 20251221123106.png]]MVC - nedorozumění
-• Obvykle vůbec neřeší přístup k datům (ve smyslu přístupu k
+![[Pasted image 20251221123106.png]]
+
+### nedorozumění
+- Obvykle vůbec neřeší přístup k datům (ve smyslu přístupu k
 databázi).
-• Existují variace pro různé platformy a situace.
-• Je nutno chápat jako velmi obecný (a správný)
-návrhový/architektonický koncept.
-• Neplést si s třívrstvou architekturou (která je lineární).
+- Existují variace pro různé platformy a situace.
+- Je nutno chápat jako velmi obecný (a správný)
+
+### návrhový/architektonický koncept.
+- Neplést si s třívrstvou architekturou (která je lineární).
